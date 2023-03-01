@@ -10,5 +10,4 @@
 &nbsp;
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhAlpha&theme=default&hide_border=false&include_all_commits=false&count_private=false" width=280>&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhAlpha&theme=default&hide_border=false" width=310></p>
 
-&nbsp;
 <p align="center"><img src="https://www.dmoe.cc/random.php" style="max-width: 100%; max-height: 100%;"></p>
