@@ -1,6 +1,6 @@
 
 &nbsp;
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=400&size=40&color=000000&lines=HoLlA%C2%A1+i%60m+v%C4%93%D1%8F.%CE%B1!;1`w SiEEplnG n0w!" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/ahalpha/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=400&size=40&color=000000&lines=HoLlA%C2%A1+i%60m+v%C4%93%D1%8F.%CE%B1!;1`w SiEEplnG n0w!" alt="Typing SVG" /></a></p>
 
 &nbsp;
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" height=200></p>
